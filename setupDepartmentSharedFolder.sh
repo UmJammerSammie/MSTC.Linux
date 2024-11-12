@@ -1,4 +1,5 @@
 #!/bin/bash
+#Created by Sam Kostuch <skostuch23@gmail.com>
 
 groups=('Sales'
 	'HumanResources'
